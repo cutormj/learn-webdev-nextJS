@@ -1,5 +1,5 @@
 "use client"
-//playground
+//playgrounds
 import FeedStream from "./components/feeds/FeedStream";
 import Stream from "./components/streams/Stream";
 
